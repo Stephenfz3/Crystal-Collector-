@@ -1,0 +1,14 @@
+.jumbotron{
+  background-color: olive;
+  font-family: 'Noto Sans', sans-serif;
+}
+body{
+  background-color: gray;
+  font-family: 'Noto Sans', sans-serif;
+}
+
+
+.instructions {
+  text-align: center; 
+  font-family: 'Noto Sans', sans-serif;
+}
